@@ -4,7 +4,7 @@ Welcome to my digital space! I'm a full-stack web developer and artist currently
 
 As a resident of Earth 🌍, a mostly harmless planet in the unfashionable western spiral arm of the Milky Way galaxy, I consider myself a global (and galactic) citizen. 
 
-Remember: Don't Panic, and don't forget your towerl!
+Remember: Don't Panic, and don't forget your towel!
 
 ## Connect With Me 🌐
 - 🖥️ Website: [thesvaneman.com](https://thesvaneman.com)
