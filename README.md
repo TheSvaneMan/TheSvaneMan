@@ -1,6 +1,6 @@
 # Hello, I'm Penda! 👋
 
-Welcome to my digital space! I'm a full-stack web developer and artist currently based in Aarhus, Denmark 🇩🇰, originally from Windhoek, Namibia 🇳🇦.
+Welcome to my digital space! I'm a full-stack web developer and artist currently based in Aarhus, Denmark 🇩🇰
 
 As a resident of Earth 🌍, a mostly harmless planet in the unfashionable western spiral arm of the Milky Way galaxy, I consider myself a global (and galactic) citizen. 
 
