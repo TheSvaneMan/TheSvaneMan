@@ -6,10 +6,6 @@ As a resident of Earth 🌍, a mostly harmless planet in the unfashionable weste
 
 Remember: Don't Panic, and don't forget your towel!
 
-## Connect With Me 🌐
-- 🖥️ Website: [thesvaneman.com](https://thesvaneman.com)
-- 🔗 Linktree: [@TheSvaneMan](https://linktr.ee/TheSvaneMan)
-
 ## What I Do 💻🎨
 
 I specialize in creating engaging human-computer interactions using web technologies and creativity. My skills allow me to:
@@ -26,13 +22,6 @@ I offer professional creative support in:
 - 🖥️ Backend development and management
 - 🌐 Web application deployment and maintenance
 
-## Artist Statement 🖌️
-
-My art is a fusion of human experiences and multidimensional dreaming. I use various techniques including:
-
-- ✒️ Ink pens and pencils for initial illustrations
-- 🖱️ Computer and digital technology for further development
-
 My artistic focus:
 - 🤝 Providing a platform for connection and empathy
 - 🤔 Exploring paradoxical and conflicting ideas
@@ -46,5 +35,3 @@ Influences:
 My art style is continuously evolving, and I believe in slowing down to refine concepts for better quality.
 
 *"I make art to be free."* - Penda, 2024
-
-Feel free to explore my work and reach out for collaborations or inquiries!
